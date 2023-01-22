@@ -6,7 +6,7 @@ To encrypt all folders, for both windows and mac, head over to my [blog for how 
 
 ### Prerequisites
 
-    - Python 3
+    - Python 3.8
     - PyAesCrypt library
     - Pyinstaller (for Windows users)
 
