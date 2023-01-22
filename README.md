@@ -1,7 +1,7 @@
 # File Encryption Script
 
 This project is a script that encrypts files on your computer for added security. The encryption key is sent via email for safekeeping, and the script can be converted into an executable file for Windows users using Pyinstaller. For Linux and Mac users, the script can be run as is, as long as Python is installed on the computer.
-
+To encrypt all folders, for both windows and mac, head over to my [blog for how to modify the code](https://dev.to/paulwababu)
 ## Getting Started
 
 ### Prerequisites
